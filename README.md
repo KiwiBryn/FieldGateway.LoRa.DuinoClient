@@ -11,7 +11,7 @@ Device
 
 *[Seeeduno V4.2](https://www.seeedstudio.com/Seeeduino-V4-2-p-2517.html) USD6.95
 
-LoRa shield
+LoRa shield options tested
 
 *[Dragino 433/868/915Mz](http://www.dragino.com/products/lora/item/102-lora-shield.html) USD21.00
 
