@@ -30,7 +30,7 @@ Extras
 
 For the Arduino test client I also used
 
-[SeeedStudio Grove-Base Shield V2](https://www.seeedstudio.com/Base-Shield-V2-p-1378.html) USD4.45
+* [SeeedStudio Grove-Base Shield V2](https://www.seeedstudio.com/Base-Shield-V2-p-1378.html) USD4.45
 
 
 ![Dragino Client](ArduinoUnoR3DraginoLoRa.jpg)
