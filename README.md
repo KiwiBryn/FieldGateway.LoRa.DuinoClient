@@ -1,5 +1,5 @@
 # FieldGateway.LoRa.DuinoClient
-Sample duno client for my Windows 10 IoT Core LoRa field gateways
+Sample duino client for my Windows 10 IoT Core LoRa field gateways
 
 This is a demo duino client (based on one of the examples from Arduino-LoRa) that uploads telemetry data to my Windows 10 IoT Core on Raspberry PI field gateways. 
 
